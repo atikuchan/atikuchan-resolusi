@@ -1,0 +1,4 @@
+resolusi hari pertama:
+- Belajar github
+- Belajar ML
+- Baca jurnal
