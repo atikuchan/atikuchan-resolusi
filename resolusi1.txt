@@ -3,3 +3,4 @@ resolusi hari pertama:
 - Belajar ML
 - Baca jurnal
 - buat ringkasan
+- ambil ijazah
